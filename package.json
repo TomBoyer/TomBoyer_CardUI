@@ -1,0 +1,19 @@
+{
+  "name": "card-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./style.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomBoyer/TomBoyer_CardUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomBoyer/TomBoyer_CardUI/issues"
+  },
+  "homepage": "https://github.com/TomBoyer/TomBoyer_CardUI#readme"
+}
